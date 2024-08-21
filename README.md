@@ -1,4 +1,4 @@
-# `CuriosityBot-MD` 
+# `Nexus bot md` 
 
 <p align="center">
 <img src="https://telegra.ph/file/847bdd9005d7e75eb2373.jpg" alt="CuriosityBot-MD" width="900"/>
