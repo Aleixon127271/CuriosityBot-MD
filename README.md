@@ -1,108 +1,132 @@
-# `Nexus bot md` 
+## **`Hola 👋`**
 
-<p align="center">
-<img src="https://telegra.ph/file/847bdd9005d7e75eb2373.jpg" alt="CuriosityBot-MD" width="900"/>
-</p>
-<a href="https://www.youtube.com/@Azami_19">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://instagram.com/azami.19">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=NexusBot-MD+%E2%9C%A8%EF%B8%8F;Gracias+Por+Visitar+Este+Repositorio+;Espero+Te+Guste+Mucho;D%C3%A9janos+Una+Estrella+%F0%9F%8C%9F+(No+Obligatorio)" alt="Typing SVG" /></a>
 
-# `Características del bot`
-|  Funciones y comandos  |                                           Si |
-| :---------------------------------------------: | :-----------: |
-| Crea stickers|✓|
-| Bienvenida automática|✓|
-| Anti-Link|✓|
-| Anti-Fakes|✓|
-| Jadibot |✓|
-| Anti-Llamadas|✓|
-| Anti-Privados|✓|
-| Modo Publico/Privado|✓|
-| Juegos|✓|
-| Descarga de música/videos|✓|
-| ChatBot|✓|
-| Más funciones en adelante|⚡|
 
-### `⚙️ AJUSTES ⚙️`
-- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/Undefined17/CuriosityBot-MD/blob/main/config.js#L6)
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/Undefined17/CuriosityBot-MD/fork)
-- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/Undefined17/CuriosityBot-MD/blob/main/package.json#L42)
+------------------
 
-### Ejemplo 
-En caso de duda, antes de instalar CuriosityBot-MD, pruebe el bot aquí
+# ![logo](https://telegra.ph/file/03c8d6cd2c93b281f77ca.jpg)
 
-[![Grupos](https://img.shields.io/badge/CuriosityBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JiCOqSlcPVfEDu8WroH6ed) 
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=DFF700&width=435&lines=%F0%9F%92%96+GRUPO+DEL+BOT+%F0%9F%92%96" alt="Typing SVG" /></a>
 
-***
+<a href="https://chat.whatsapp.com/G9MpDVmJtbiIpItEZpg70s" target="blank"><img src="https://img.shields.io/badge/GRUPO_OFC_DEL_BOT_-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-#### `ACTIVA EN HEROKU`
-para usuarios del heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Azami19/CuriosityBot-MD1)
 
-#### Heroku Buildpack
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[click](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [click](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+ > NO SPAMEAR COMANDOS
 
-***
-### `ACTIVA EN TERMUX`
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-```bash
-termux-setup-storage
-```
 
-```bash
-apt-get update -y && apt-get upgrade -y
-```
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=8909F7&width=435&lines=+%F0%9F%96%8D+LETRA+DEL+BOT+%F0%9F%96%8D" alt="Typing SVG" /></a> 
 
-```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
-```
 
-```bash
-git clone https://github.com/Undefined17/CuriosityBot-MD && cd CuriosityBot-MD && yarn install && npm install
-```
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=E2E1F7&width=435&lines=%E2%9A%99%EF%B8%8F+AJUSTES+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a> 
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/WOTCHITO/NexusBot-MD/fork)
 
-```bash
-ls
-```
 
-```bash
-npm start
-```
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=6532F7&width=435&lines=+%F0%9F%91%BE+ACTIVAR+EN+TERMUX+%F0%9F%91%BE" alt="Typing SVG" /></a> 
 
-### `OBTENER OTRO CODIGO QR`
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd CuriosityBot-MD1
-> rm -rf sessions
-> npm start
-```
 
- ### `DUDAS SOBRE EL BOT?, CONTACTAME`
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=5A5A5A&width=435&lines=%E2%9C%94%EF%B8%8F+ACTIVAR+EN+CASO+DE+DETENERSE+EN+TERMUX+%E2%9C%94%EF%B8%8F" alt="Typing SVG" /></a> 
 
-<a href="https://wa.me/59894808483"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### EDITOR & PROPIETARIO DEL BOT
-<a href="https://github.com/Undefined17"><img src="https://github.com/Undefined17.png" width="250" height="250" alt="Azami19"/></a>
+###  <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=CCEBF7&width=435&lines=%F0%9F%91%BD+OBTENER+OTRO+CODIGO+QR+EN+TERMUX+%F0%9F%91%BD" alt="Typing SVG" /></a> 
 
-#### COLABORADORES 
-<a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png?size=100" width="100" height="100"></a> | [![reyEndymion](https://github.com/ReyEndymion.png?size=100)](https://github.com/ReyEndymion) 
----|---
-[Gata Dios](https://github.com/GataNina-Li)  | [reyEndymion](https://github.com/ReyEndymion)
-Colaboradora | Colaborador |
+- DETENER EL BOT DANDO CLICK 
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=1A11F7&width=435&lines=%F0%9F%94%B5+OLYMPUS-HOST+%F0%9F%94%B5" alt="Typing SVG" /></a> 
+<a href="https://dash.olympus-host.xyz"><img src="https://qu.ax/waCu.jpg" height="125px"></a>
 
-##### AGRADECIMIENTO ESPECIAL PARA
-<!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-[![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)-->
-<a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
----|---
-[Bochilgaming](https://github.com/BochilGaming)  | [Nurutomo](https://github.com/Nurutomo)
-games-wabot | wabot-q |
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0026FF&width=435&lines=Informaci%C3%B3n+del+Host" alt="Typing SVG" /></a>
+
+• Dashboard: [`Aquí`](https://dash.olympus-host.xyz)
+
+• Panel: [`Aquí`](https://panel.olympus-host.xyz)
+
+• Canal de WhatsApp: [`Aquí`](https://whatsapp.com/channel/0029ValCkNT2ER6gHWFRQ71J)
+
+• Correo: [`Aquí`](olympushost2@gmail.com.com)
+
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - GokuBot**</summary><img src="https://telegra.ph/file/df9e39ea02ef177ac5194.jpg"></details>
+
+ ### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=FFCE00&width=435&lines=%F0%9F%91%91+DUDAS+SOBRE+EL+BOT%3F%2CCONTACTA+AL+CREADOR+%F0%9F%91%91" alt="Typing SVG" /></a> 
+<a href="http://wa.me/593939005387" target="blank"><img src="https://img.shields.io/badge/EDER-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF0099&width=435&lines=%F0%9F%92%96+AGRADECIMIENTOS+" alt="Typing SVG" /></a> 
+<a 
+href="https://github.com/Jostin207"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Agradecimientos"/></a>
+<a
+href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="100" height="100" alt="Agradecimientos"/></a>
+<a
+href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="100" height="100" alt="Agradecimientos"/></a>
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=55FFE3&width=435&lines=%F0%9F%A7%B8+Mi+Creador" alt="Typing SVG" /></a>
+<a
+href="https://github.com/WOTCHITO"><img src="https://github.com/WOTCHITO.png" width="140" height="140" alt="Eder"/></a>
+
+<a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6CFF54&center=true&width=435&lines=NexusBot-MD+-+By+EDER+" alt="Typing SVG" /></a>## **`Hola 👋`**
+
+<a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=NexusBot-MD+%E2%9C%A8%EF%B8%8F;Gracias+Por+Visitar+Este+Repositorio+;Espero+Te+Guste+Mucho;D%C3%A9janos+Una+Estrella+%F0%9F%8C%9F+(No+Obligatorio)" alt="Typing SVG" /></a>
+
+
+------------------
+
+# ![logo](https://telegra.ph/file/03c8d6cd2c93b281f77ca.jpg)
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=DFF700&width=435&lines=%F0%9F%92%96+GRUPO+DEL+BOT+%F0%9F%92%96" alt="Typing SVG" /></a>
+
+<a href="https://chat.whatsapp.com/G9MpDVmJtbiIpItEZpg70s" target="blank"><img src="https://img.shields.io/badge/GRUPO_OFC_DEL_BOT_-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+
+
+ > NO SPAMEAR COMANDOS
+
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=8909F7&width=435&lines=+%F0%9F%96%8D+LETRA+DEL+BOT+%F0%9F%96%8D" alt="Typing SVG" /></a> 
+
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=E2E1F7&width=435&lines=%E2%9A%99%EF%B8%8F+AJUSTES+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a> 
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/WOTCHITO/NexusBot-MD/fork)
+
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=6532F7&width=435&lines=+%F0%9F%91%BE+ACTIVAR+EN+TERMUX+%F0%9F%91%BE" alt="Typing SVG" /></a> 
+
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=5A5A5A&width=435&lines=%E2%9C%94%EF%B8%8F+ACTIVAR+EN+CASO+DE+DETENERSE+EN+TERMUX+%E2%9C%94%EF%B8%8F" alt="Typing SVG" /></a> 
+
+
+###  <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=CCEBF7&width=435&lines=%F0%9F%91%BD+OBTENER+OTRO+CODIGO+QR+EN+TERMUX+%F0%9F%91%BD" alt="Typing SVG" /></a> 
+
+- DETENER EL BOT DANDO CLICK 
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=1A11F7&width=435&lines=%F0%9F%94%B5+OLYMPUS-HOST+%F0%9F%94%B5" alt="Typing SVG" /></a> 
+<a href="https://dash.olympus-host.xyz"><img src="https://qu.ax/waCu.jpg" height="125px"></a>
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0026FF&width=435&lines=Informaci%C3%B3n+del+Host" alt="Typing SVG" /></a>
+
+• Dashboard: [`Aquí`](https://dash.olympus-host.xyz)
+
+• Panel: [`Aquí`](https://panel.olympus-host.xyz)
+
+• Canal de WhatsApp: [`Aquí`](https://whatsapp.com/channel/0029ValCkNT2ER6gHWFRQ71J)
+
+• Correo: [`Aquí`](olympushost2@gmail.com.com)
+
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - GokuBot**</summary><img src="https://telegra.ph/file/df9e39ea02ef177ac5194.jpg"></details>
+
+ ### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=FFCE00&width=435&lines=%F0%9F%91%91+DUDAS+SOBRE+EL+BOT%3F%2CCONTACTA+AL+CREADOR+%F0%9F%91%91" alt="Typing SVG" /></a> 
+<a href="http://wa.me/593939005387" target="blank"><img src="https://img.shields.io/badge/EDER-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF0099&width=435&lines=%F0%9F%92%96+AGRADECIMIENTOS+" alt="Typing SVG" /></a> 
+<a 
+href="https://github.com/Jostin207"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Agradecimientos"/></a>
+<a
+href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="100" height="100" alt="Agradecimientos"/></a>
+<a
+href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="100" height="100" alt="Agradecimientos"/></a>
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=55FFE3&width=435&lines=%F0%9F%A7%B8+Mi+Creador" alt="Typing SVG" /></a>
+<a
+href="https://github.com/WOTCHITO"><img src="https://github.com/WOTCHITO.png" width="140" height="140" alt="Eder"/></a>
+
+<a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6CFF54&center=true&width=435&lines=NexusBot-MD+-+By+EDER+" alt="Typing SVG" /></a>
+
